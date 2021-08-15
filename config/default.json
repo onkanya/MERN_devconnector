@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb://localhost:27017/DevConnector",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "a74ef14e99d51b841e14",
+  "githubSecret": "44cfb479a587e1798f42e4170b5ef770e2df2d27"
 }
