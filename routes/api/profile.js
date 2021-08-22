@@ -332,7 +332,6 @@ router.get("/github/:username", async (req, res) => {
       }
 
       res.json(JSON.parse(body));
-      // Section5
     });
   } catch (error) {
     console.error(error.message);
